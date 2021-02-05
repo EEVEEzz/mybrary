@@ -8,7 +8,7 @@
 :root {
     font-family: 'Gotham Rounded';
     font-size: 20px;
-    color: var(--color-text-light);
+    color: rgb(255, 255, 255);
 }
 
 *,
@@ -18,7 +18,7 @@
 }
 
 body {
-    background: linear-gradient(90deg, red, blue);
+    background: linear-gradient(90deg, rgb(49, 49, 49), rgb(24, 24, 24));
 }
 
 .container {
